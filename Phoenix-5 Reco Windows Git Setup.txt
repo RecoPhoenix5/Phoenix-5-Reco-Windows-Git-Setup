@@ -1,0 +1,31 @@
+Windows 相關環境架設
+
+1.應用程式管理 https://chocolatey.org/install
+
+2.建立 D:\Terraform目錄
+
+3.下載安裝 Git 
+	https://git-scm.com/download/win
+	環境設定：帳號
+	教學影片：https://www.youtube.com/watch?v=J19teH0me_4
+	Fork專案連結：https://github.com/kyos0109/terraform-demo
+
+4.下載安裝Terraform 
+	https://www.terraform.io/downloads.html
+	環境設定
+	建立main.tf 
+	參考：https://medium.com/@mailtojacklai/terraform-terraform%E5%85%A5%E9%96%80%E7%AD%86%E8%A8%9801-8aa9e294aef
+
+5.下載安裝 Sublime Text 3
+	https://www.sublimetext.com/3
+	中文化Plugin
+	GIT
+
+6.下載安裝 Git Hub Desktop
+	https://desktop.githubusercontent.com/releases/2.5.0-736ef366/GitHubDesktopSetup.exe
+	教學：https://mnya.tw/cc/word/1360.html
+	
+	設定Editor使用Sublime，並能讀取專案   
+
+7.測試看看
+	https://backlog.com/git-tutorial/tw/
