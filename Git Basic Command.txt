@@ -1,0 +1,11 @@
+CD ..
+git --version
+git status
+git config --global user.name "YourName GitHub"
+git config --global user.email "YourEmail GitHub"
+git add .
+git commit -m "Yourname commom"
+git remote add origin https// YourProject GitHub.git
+git remote -v
+git branch
+git push origin master

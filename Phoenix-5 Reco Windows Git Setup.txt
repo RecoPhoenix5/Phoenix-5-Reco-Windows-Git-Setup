@@ -21,11 +21,11 @@ Windows 相關環境架設
 	中文化Plugin
 	GIT
 
-6.下載安裝 Git Hub Desktop
-	https://desktop.githubusercontent.com/releases/2.5.0-736ef366/GitHubDesktopSetup.exe
-	教學：https://mnya.tw/cc/word/1360.html
-	
-	設定Editor使用Sublime，並能讀取專案   
+#6.下載安裝 Git Hub Desktop
+#	https://desktop.githubusercontent.com/releases/2.5.0-736ef366/GitHubDesktopSetup.exe
+#	教學：https://mnya.tw/cc/word/1360.html
+#	
+#	設定Editor使用Sublime，並能讀取專案   
 
 7.測試看看
 	https://backlog.com/git-tutorial/tw/
