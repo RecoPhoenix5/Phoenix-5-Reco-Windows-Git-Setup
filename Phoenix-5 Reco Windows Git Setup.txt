@@ -19,7 +19,8 @@ Windows 相關環境架設
 5.下載安裝 Sublime Text 3
 	https://www.sublimetext.com/3
 	中文化Plugin
-	GIT
+	GIT：git config --global core.editor "'C:\Program Files\Sublime Text 3\sublime_text.exe' /w"
+
 
 #6.下載安裝 Git Hub Desktop
 #	https://desktop.githubusercontent.com/releases/2.5.0-736ef366/GitHubDesktopSetup.exe
